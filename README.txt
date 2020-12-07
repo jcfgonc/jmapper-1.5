@@ -1,5 +1,5 @@
 This code extracts conceptual mappings representing analogies from semantic graphs using the idea stated on the paper:
-Hervás, Raquel, et al. "Enrichment of automatically generated texts using metaphor." Mexican International Conference on Artificial Intelligence. Springer, Berlin, Heidelberg, 2007.
+Raquel Hervás, Rui P. Costa, Hugo Costa, Pablo Gervás, Francisco C. Pereira. "Enrichment of automatically generated texts using metaphor." Mexican International Conference on Artificial Intelligence. Springer, Berlin, Heidelberg, 2007.
 
 You can do the following with jMapper:
 
